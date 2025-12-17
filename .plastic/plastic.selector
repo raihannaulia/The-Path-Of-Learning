@@ -1,0 +1,4 @@
+repository "The Path Of Learning 2025-12-16_21-16-41/The Path Of Learning@20066577535528@cloud"
+  path "/"
+    br "/main"
+    co "/main"
