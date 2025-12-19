@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="halaman48felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman40felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman32felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman24felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman17felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman15felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman9felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman5felix" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>
