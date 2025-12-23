@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="marker3" size="1.000000 1.143485" />
-    <ImageTarget name="marker2" size="1.000000 1.143485" />
-    <ImageTarget name="marker1" size="1.000000 1.143485" />
+    <ImageTarget name="halaman32felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman41felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman29felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman45felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman44felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman33felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman35felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman36felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman38felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman40felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman43felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman48felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman28felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman25felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman24felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman22felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman21felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman20felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman19felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman15felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman13felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman9felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman5felix" size="1.000000 0.666667" />
+    <ImageTarget name="halaman3felix" size="1.000000 0.666667" />
   </Tracking>
 </QCARConfig>
